@@ -177,7 +177,7 @@ export default function WelcomePage() {
             <div className="absolute inset-0 flex items-center justify-center">
               <div className="w-32 h-32 flex items-center justify-center">
                 <Image
-                  src="/images/operario.png"
+                  src="/images/op.png"
                   alt="Logo de OFIPROF"
                   width={96}
                   height={96}
