@@ -190,7 +190,7 @@ export default function WelcomePage() {
         </div>
 
         <h1 className="text-3xl font-bold mb-2">
-          ¡Bienvenido/a a <strong>OFIPROF</strong>!
+          Bienvenido/a a <strong>OFIPROF</strong>
         </h1>
         <p className="text-lg text-gray-800 mb-8">La aplicación de oficios y profesionales que estabas necesitando.</p>
 
